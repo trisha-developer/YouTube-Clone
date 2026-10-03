@@ -22,3 +22,6 @@ A simple YouTube-inspired frontend clone built using **HTML and CSS**.
 ## 📂 Project
 
 This project was created to practice HTML structure, CSS styling, layouts, and responsive design.
+
+# Project Image:
+<div><img src="youtube_Clone.png"></div>
